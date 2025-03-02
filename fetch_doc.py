@@ -55,7 +55,7 @@ def get_doc_content():
     <table width="100%" border="0">
         <tr>
             <td bgcolor="#000080">
-                <h1><font color="#FFFFFF">[Your Name]'s Resume</font></h1>
+                <h1><font color="#FFFFFF">Ashwin S Nair's Resume</font></h1>
             </td>
         </tr>
         <tr>
