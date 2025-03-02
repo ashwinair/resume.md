@@ -1,0 +1,60 @@
+body {
+    background-color: #808080;
+    font-family: "Times New Roman", Times, serif;
+    margin: 0;
+    padding: 10px;
+}
+
+table {
+    background-color: #C0C0C0;
+    border: 2px outset #FFFFFF;
+}
+
+h1 {
+    padding: 10px;
+    margin: 0;
+    font-size: 24pt;
+}
+
+h2 {
+    color: #000080;
+    font-size: 18pt;
+}
+
+h3 {
+    color: #000080;
+    font-size: 14pt;
+}
+
+p, li {
+    font-size: 12pt;
+    line-height: 1.5;
+}
+
+a:link {
+    color: #0000FF;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #800080;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #FF0000;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #800000;
+    text-decoration: underline;
+}
+
+hr {
+    border: 1px solid #808080;
+}
+
+ul {
+    list-style-type: square;
+}
