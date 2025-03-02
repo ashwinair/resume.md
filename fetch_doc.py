@@ -5,7 +5,7 @@ from datetime import datetime
 
 # Configuration
 CREDS_FILE = 'credentials.json'  # Will be created by GitHub Actions
-DOC_ID = 'your-document-id-here'  # Replace with your Google Doc ID
+DOC_ID = '1ZSU106Io8rm__ks-gC6EFVhZaqOiZmk4nyItRUWWCJM'
 
 def get_doc_content():
     creds = Credentials.from_service_account_file(CREDS_FILE)
